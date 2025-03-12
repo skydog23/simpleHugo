@@ -1,3 +1,4 @@
+baseURL='https://skydog23.github.io/simpleHugo/'
 languageCode = 'en-us'
 title = 'Simplest Hugo Site'
 
