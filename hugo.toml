@@ -1,5 +1,5 @@
-#baseURL='https://skydog23.github.io/simpleHugo/'
-baseURL='http://localhost:1313/simpleHugo/'
+baseURL='https://skydog23.github.io/simpleHugo/'
+#baseURL='http://localhost:1313/simpleHugo/'
 languageCode = 'en-us'
 title = 'Simplest Hugo Site'
 
