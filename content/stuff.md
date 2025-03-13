@@ -6,7 +6,7 @@ title= "A page on simple hugo site"
 
 Here is another page on my simple Hugo site.
 I'm playing the same game here
-{{< img src="/images/hugo-logo-wide.svg" >}}
+{{< img src="/images/hugo-logo-wide.svg" alt="A wide logo" >}}
 
 ```
 ![Hugo logo](/images/hugo-logo-wide.svg)
