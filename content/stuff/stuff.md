@@ -1,8 +1,7 @@
 +++
-title= "Simple Hugo Site"
+title= "A page on simple hugo site"
 draft= true
 +++
-
 
 ## Welcome!
 
