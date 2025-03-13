@@ -17,8 +17,9 @@ It often can't find these images.  This demo loads this image twice:
 
 I do not have 'baseURL' set in the hugo.toml configuration file.  On Github, I use an action that generates its own version of 'baseURL'.
 
-
-{{< img "/images/hugo-logo-wide.svg" >}}
+<div>
+{{< img src="/images/hugo-logo-wide.svg" >}}
+</div>
 
 ```
 ![Hugo logo](/images/hugo-logo-wide.svg)
