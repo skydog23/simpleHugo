@@ -1,5 +1,5 @@
 +++
-title= "Simple Hugo Site"
+title= "Home Page for Simple Hugo Site"
 draft= true
 +++
 
